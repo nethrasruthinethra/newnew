@@ -9,7 +9,7 @@ resources:
   - name: myBuildInfo
     type: BuildInfo
     configuration:
-      sourceArtifactory: sample
+      sourceArtifactory: hello
       buildName: SampleApp
       buildNumber: 1   
       
